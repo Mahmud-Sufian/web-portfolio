@@ -68,14 +68,14 @@ p{
     border-left: 7px solid;
     border-image:linear-gradient(180deg, salmon, tomato);
     border-image-slice: 1;
-    height: 55%  
+    height: 70%; 
 }
 #left-border2{
     border-left: 7px solid;
     box-shadow: 10px 10px 40px gray;
     border-image:linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
-    height: 55%  
+    height: 70%;
 }
 #exp-h1{
     position: absolute;
